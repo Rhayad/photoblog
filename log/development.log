@@ -1,0 +1,16 @@
+
+
+Started GET "/users" for 127.0.0.1 at 2011-03-27 10:40:43 +0200
+
+ActionController::RoutingError (No route matches "/users"):
+  
+
+Rendered /Users/Marcus/.rvm/gems/ruby-1.9.2-p0@rails3tutorial/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/photoblog/" for 127.0.0.1 at 2011-03-27 10:41:00 +0200
+
+ActionController::RoutingError (No route matches "/photoblog"):
+  
+
+Rendered /Users/Marcus/.rvm/gems/ruby-1.9.2-p0@rails3tutorial/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
